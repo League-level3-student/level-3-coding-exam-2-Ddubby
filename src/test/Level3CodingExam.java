@@ -1,9 +1,18 @@
+package test;
+
+
+
+
+
 import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
 import org.junit.Test;
+
+
+
 
 public class Level3CodingExam {
 
